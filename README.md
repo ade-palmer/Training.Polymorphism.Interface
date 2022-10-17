@@ -1,1 +1,1 @@
-# Training.Polymorphism.Interface
+# Training - Polymorphism (Interfaces)
